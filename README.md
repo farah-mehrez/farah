@@ -2,7 +2,7 @@
 📫 Reach me at:
 Email: farahmehrez68@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/farah-mehrez-2124f
+LinkedIn: https://www.linkedin.com/in/farah-mehrez
 
 GitHub: https://github.com/farah-mehrez
 
