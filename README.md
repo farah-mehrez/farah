@@ -1,6 +1,4 @@
-
-
-## Hi, I'm Farah Mehrez 👋
+                  # Hi, I'm Farah Mehrez 👋
 **Computer Engineering Student | IoT & Embedded Systems | Mobile Development**
 
 I'm currently studying Computer Systems Engineering, with a focus on IoT and Embedded Systems. I'm passionate about developing mobile applications and creating innovative solutions using technology.
