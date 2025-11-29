@@ -1,3 +1,10 @@
+![Profile Picture](YourProfilePictureLink)
+
+## Hi, I'm Farah Mehrez 👋
+**Computer Engineering Student | IoT & Embedded Systems | Mobile Development**
+
+I'm currently studying Computer Systems Engineering, with a focus on IoT and Embedded Systems. I'm passionate about developing mobile applications and creating innovative solutions using technology.
+
 # 💫 About Me:
 👀 I'm deeply interested in IoT & Embedded Systems • Flutter Mobile Apps • AI & Intelligent Automation<br>Cloud Computing (APIs, Serverless) .<br><br>🌱 I'm currently expanding my expertise in IoT Security  • AI Model Integration in IoT<br>Cloud Deployment & Edge Computing <br><br>💞️ I'm looking to collaborate on innovative Smart IoT Systems • Mobile Apps w/ Real-Time Data •<br>Cloud Dashboards and Monitoring Solutions<br><br>📫 How to reach me:<br><br>Email: farahmehrez68@gmail.com<br><br>LinkedIn: https://www.linkedin.com/in/farah-mehrez<br><br>GitHub: https://github.com/farah-mehrez
 
